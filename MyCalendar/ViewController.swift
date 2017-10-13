@@ -24,7 +24,7 @@ class ViewController: UIViewController,FSCalendarDataSource, FSCalendarDelegate 
     
 //        let scopeGesture = UIPanGestureRecognizer(target: self.calendar, action: #selector(self.calendar.handleScopeGesture(_:)))
 //        self.calendar.addGestureRecognizer(scopeGesture)
-
+        print("HI")
         
         
     }
