@@ -26,10 +26,9 @@ class ViewController: UIViewController,FSCalendarDataSource, FSCalendarDelegate 
 //        self.calendar.addGestureRecognizer(scopeGesture)
         print("HI")
         
-        print("NO")
         
         
-        
+        print("你好")
     }
     
     // MARK:- FSCalendarDelegate
