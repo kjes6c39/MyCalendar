@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C1AEB331F95D2180065D430 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1AEB321F95D2180065D430 /* MainViewController.swift */; };
 		3C9509031F1724C8001D5FB8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9509021F1724C8001D5FB8 /* AppDelegate.swift */; };
 		3C9509051F1724C8001D5FB8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9509041F1724C8001D5FB8 /* ViewController.swift */; };
 		3C9509081F1724C8001D5FB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C9509061F1724C8001D5FB8 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		028D4F5E88558758B28ACB95 /* Pods_MyCalendar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyCalendar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C1AEB321F95D2180065D430 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		3C9508FF1F1724C8001D5FB8 /* MyCalendar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCalendar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9509021F1724C8001D5FB8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C9509041F1724C8001D5FB8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				3C9509021F1724C8001D5FB8 /* AppDelegate.swift */,
 				3C9509041F1724C8001D5FB8 /* ViewController.swift */,
+				3C1AEB321F95D2180065D430 /* MainViewController.swift */,
 				3C9509061F1724C8001D5FB8 /* Main.storyboard */,
 				3C9509091F1724C8001D5FB8 /* Assets.xcassets */,
 				3C95090B1F1724C8001D5FB8 /* LaunchScreen.storyboard */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C1AEB331F95D2180065D430 /* MainViewController.swift in Sources */,
 				3C9509051F1724C8001D5FB8 /* ViewController.swift in Sources */,
 				3C9509031F1724C8001D5FB8 /* AppDelegate.swift in Sources */,
 			);
